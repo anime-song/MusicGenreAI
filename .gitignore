@@ -174,3 +174,4 @@ songs/
 Dataset/
 logs/
 model/
+.vscode/
